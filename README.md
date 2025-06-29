@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Handwritten Character Recognition OCR System
 
 <div align="center">
@@ -54,9 +53,11 @@ This project was crafted with pure **vibe energy** - that magical flow state whe
 
 | Input Description | Predicted Character | Confidence |
 |------------------|-------------------|------------|
-| Handwritten letter A | **A** | 94.2% |
-| Handwritten number 5 | **5** | 89.7% |
-| Handwritten letter z | **z** | 91.3% |
+| Handwritten letter d | **d** | 99.6% |
+| Handwritten letter Q | **Q** | 99.6% |
+| Handwritten letter R | **R** | 99.6% |
+| Handwritten letter S | **S** | 99.5% |
+| Handwritten letter U | **U** | 99.3% |
 
 *Note: Add your own demo images in the `demo/` folder!*
 
@@ -251,10 +252,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Questions?** **Suggestions?** **Just want to chat about AI?**
 
-- 📧 **Email:** your.email@example.com
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 🐦 **Twitter:** [@YourTwitterHandle]
-- 💬 **Issues:** [GitHub Issues Page]
+- 📧 **Email:** x
+- 💼 **LinkedIn:**[Shamim Reza](https://www.linkedin.com/in/shamim-reza-06b853332)
+- 🐦 **Twitter:** x
+- 💬 **Issues:** [GitHub Issues Page](https://github.com/huGEL8044/Handwritten-Character-Recognition-OCR-System/issues)
 
 <div align="center">
 
@@ -277,5 +278,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Share your results with the community!
 
 **Ready to dive in? Let's build something amazing together!** 🚀
-```
 
